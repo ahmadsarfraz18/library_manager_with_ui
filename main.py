@@ -93,7 +93,7 @@ def main():
     
     with st.sidebar:
         st.markdown("---")
-        st.write("✨ Designed with Streamlit ✨")
+        st.write("✨ Designed with Streamlit by Mahar Ahmad Sarfraz ✨")
     
     if choice == "Add Book":
         add_book(library)
