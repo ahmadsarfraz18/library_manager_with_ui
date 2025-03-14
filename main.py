@@ -106,7 +106,7 @@ def main():
     
     with st.sidebar:
         st.markdown("---")
-        st.write("✨ Created with Streamlit by Mahar Ahmad Sarfraz ✨")
+        st.write("✨ Created with ❤️ by Mahar Ahmad Sarfraz ✨")
     
     # Call functions based on user choice
     if choice == "Add Book":
